@@ -16,9 +16,10 @@ Step 2:
         ![Screenshot](https://github.com/melissarommelman/21-22-Empower-FTC-Team18014/blob/main/Connect.png?raw=true)
 
 Step 3: Click on the "OnBot Java" tab, from here:
-To update code: Hit the wrench icon
+
+-To update code, hit the wrench icon
         ![Screenshot](https://github.com/melissarommelman/21-22-Empower-FTC-Team18014/blob/main/Build.png?raw=true)
 
-To replace/use code: Create a new .java file with the same title on OnBot Java & copy and paste the code from GitHub
+-To replace/use code, create a new .java file with the same title on OnBot Java & copy and paste the code from GitHub
 
 
