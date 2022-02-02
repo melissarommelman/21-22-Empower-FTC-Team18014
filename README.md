@@ -8,7 +8,7 @@ This GitHub repository contains the source code that is used to control 6 differ
 # Getting Started
 There are three steps to updating/uploading code!
 Step 1:
-        Connect to the robot via wifi (This number will vary by team)
+        Connect to the wifi of your robot's number
         ![Screenshot](https://github.com/melissarommelman/21-22-Empower-FTC-Team18014/blob/main/Wifi.png?raw=true)
 
 Step 2:
